@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 278
     height: 571
-  m_MinSize: {x: 242, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 240, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 433, y: 271}
   m_MaxSize: {x: 14003, y: 10021}
   vertical: 0
-  controlID: 289
+  controlID: 123
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,10 +224,10 @@ MonoBehaviour:
     y: 30
     width: 2544
     height: 1291
-  m_MinSize: {x: 920, y: 492}
-  m_MaxSize: {x: 18003, y: 14042}
+  m_MinSize: {x: 921, y: 492}
+  m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 108
+  controlID: 162
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -252,7 +252,7 @@ MonoBehaviour:
   m_MinSize: {x: 645, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 1
-  controlID: 109
+  controlID: 67
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -278,7 +278,7 @@ MonoBehaviour:
   m_MinSize: {x: 645, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 110
+  controlID: 68
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -352,8 +352,8 @@ MonoBehaviour:
     y: 0
     width: 338
     height: 1291
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 24}
   m_Panes:
   - {fileID: 24}
@@ -599,7 +599,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 0c25e1ff8a45eaff3668eaff5268eaff6e68eaff8a68eaff1a6feaff366feaff526feaff6e6feaff8a6feaff3676eaff5276eaff6e76eaff8a76eaff367deaff527deaff6e7deaff8a7deaff3684eaff5284eaff6e84eaff8a84eaffaa56efff0236f2ff3c38f4ff4e38f4ff6038f4ff7238f4ff8438f4ff9638f4ffa838f4ffba38f4ffcc38f4ffde38f4fff038f4ff0239f4ff1439f4ff2639f4ff3839f4ff4a39f4ffe83af4ffbc3cf4ffce3cf4ffe03cf4fff23cf4ff043df4ff163df4ff283df4ff3a3df4ff4c3df4ff5e3df4ff703df4ff823df4ff943df4ffa63df4ffb83df4ffca3df4ff3c41f4ff4e41f4ff6041f4ff7241f4ff8441f4ff9641f4ffa841f4ffba41f4ffcc41f4ffde41f4fff041f4ff0242f4ff1442f4ff2642f4ff3842f4ff4a42f4ff7445f4ffbc45f4ffce45f4ffe045f4fff245f4ff0446f4ff1646f4ff2846f4ff3a46f4ff4c46f4ff5e46f4ff7046f4ff8246f4ff9446f4ffa646f4ffb846f4ffca46f4ffe412f5ff86f5f7fff402f8ff0603f8ff7407f8ff8607f8fff40bf8ff060cf8ff7410f8ff8610f8fff414f8ff0615f8ff7441f8ffbe8cf8ff8216fcfff216fcffeefffeff44f1ffff04f9ffff36f9ffffcafaffff
+      m_ExpandedIDs: 9adfffff005a00002c5a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -671,8 +671,8 @@ MonoBehaviour:
   m_DoValidateTrueMetals: 0
   m_ExposureSliderValue: 0
   m_SceneViewState:
+    m_AlwaysRefresh: 0
     showFog: 1
-    showMaterialUpdate: 0
     showSkybox: 1
     showFlares: 1
     showImageEffects: 1
@@ -802,21 +802,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets
     m_Globs: []
+    m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 60
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets
   m_LastFoldersGridSize: 60
-  m_LastProjectPath: G:\UnityProjects\AoC 2020 Day 5
+  m_LastProjectPath: G:\UnityProjects\AoC 2020\AoC-2020\AoC 2020 Day 5
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fc490000
-    m_LastClickedID: 18940
-    m_ExpandedIDs: 00000000da49000000ca9a3b
+    m_SelectedIDs: a65a0000
+    m_LastClickedID: 23206
+    m_ExpandedIDs: 00000000a65a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -844,7 +845,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000a65a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -871,7 +872,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000e6540000d03d0000a4d10e00348800001a52000000000000aa3f0000643d0000f6490000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -958,8 +959,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
   m_LastVerticalScrollValue: 0
-  m_AssetGUID: 
-  m_InstanceID: 0
+  m_GlobalObjectId: 
   m_LockTracker:
     m_IsLocked: 0
   m_PreviewWindow: {fileID: 0}

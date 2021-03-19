@@ -1,31 +1,31 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: G:/UnityProjects/AoC 2020 Day 5/Packages/manifest.json
+    m_FilePath: G:/UnityProjects/AoC 2020/AoC-2020/AoC 2020 Day 5/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637497607304931844
-    m_Hash: 2596616367
+      ticks: 637517230689718525
+    m_Hash: 2252368122
   m_LockFileStatus:
-    m_FilePath: G:/UnityProjects/AoC 2020 Day 5/Packages/packages-lock.json
+    m_FilePath: G:/UnityProjects/AoC 2020/AoC-2020/AoC 2020 Day 5/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637497607451971532
-    m_Hash: 586401254
+      ticks: 637517230764554729
+    m_Hash: 3060907799
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: com.unity.2d.animation@4.2.6
+    - packageId: com.unity.2d.animation@5.0.3
       testable: 0
       isDirectDependency: 1
-      version: 4.2.6
+      version: 5.0.3
       source: 1
-      resolvedPath: G:\UnityProjects\AoC 2020 Day 5\Library\PackageCache\com.unity.2d.animation@4.2.6
+      resolvedPath: G:\UnityProjects\AoC 2020\AoC-2020\AoC 2020 Day 5\Library\PackageCache\com.unity.2d.animation@5.0.3
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
       displayName: 2D Animation
@@ -95,12 +95,12 @@ m_PackageAssets:
         - 6.0.0-pre.1
         - 6.0.0-pre.2
         compatible:
-        - 4.2.6
-        - 4.2.8
-        verified: 4.2.8
+        - 5.0.3
+        - 5.0.4
+        verified: 5.0.4
       dependencies:
       - name: com.unity.2d.common
-        version: 3.0.1
+        version: 4.0.3
       - name: com.unity.mathematics
         version: 1.1.0
       - name: com.unity.2d.sprite
@@ -111,7 +111,7 @@ m_PackageAssets:
         version: 1.0.0
       resolvedDependencies:
       - name: com.unity.2d.common
-        version: 3.0.1
+        version: 4.0.3
       - name: com.unity.2d.sprite
         version: 1.0.0
       - name: com.unity.modules.uielements
@@ -143,20 +143,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637366431100000000
+      datePublishedTicks: 637408845570000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 4e323a9f3edf4c6dc06ab4d1582e12f07cb54189
+        revision: c97def465b1932276762fc13f4cfee58da99d5e9
         path: 
-    - packageId: com.unity.2d.pixel-perfect@3.0.2
+    - packageId: com.unity.2d.pixel-perfect@4.0.1
       testable: 0
       isDirectDependency: 1
-      version: 3.0.2
+      version: 4.0.1
       source: 1
-      resolvedPath: G:\UnityProjects\AoC 2020 Day 5\Library\PackageCache\com.unity.2d.pixel-perfect@3.0.2
+      resolvedPath: G:\UnityProjects\AoC 2020\AoC-2020\AoC 2020 Day 5\Library\PackageCache\com.unity.2d.pixel-perfect@4.0.1
       assetPath: Packages/com.unity.2d.pixel-perfect
       name: com.unity.2d.pixel-perfect
       displayName: 2D Pixel Perfect
@@ -195,8 +195,8 @@ m_PackageAssets:
         - 5.0.0-pre.1
         - 5.0.0-pre.2
         compatible:
-        - 3.0.2
-        verified: 3.0.2
+        - 4.0.1
+        verified: 4.0.1
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -216,20 +216,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637225599840000000
+      datePublishedTicks: 637328350910000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 5d3192fa192839232cc8a843fa1c1430c8485a0f
+        revision: 7d7470f4ca0ea8353d4c9640b3b6ae9d1ebd9c1d
         path: 
-    - packageId: com.unity.2d.psdimporter@3.1.6
+    - packageId: com.unity.2d.psdimporter@4.0.2
       testable: 0
       isDirectDependency: 1
-      version: 3.1.6
+      version: 4.0.2
       source: 1
-      resolvedPath: G:\UnityProjects\AoC 2020 Day 5\Library\PackageCache\com.unity.2d.psdimporter@3.1.6
+      resolvedPath: G:\UnityProjects\AoC 2020\AoC-2020\AoC 2020 Day 5\Library\PackageCache\com.unity.2d.psdimporter@4.0.2
       assetPath: Packages/com.unity.2d.psdimporter
       name: com.unity.2d.psdimporter
       displayName: 2D PSD Importer
@@ -279,19 +279,18 @@ m_PackageAssets:
         - 5.0.0-pre.1
         - 5.0.0-pre.2
         compatible:
-        - 3.1.6
-        - 3.1.7
-        verified: 3.1.7
+        - 4.0.2
+        verified: 4.0.2
       dependencies:
       - name: com.unity.2d.common
-        version: 3.0.1
+        version: 4.0.2
       - name: com.unity.2d.animation
-        version: 4.2.6
+        version: 5.0.2
       - name: com.unity.2d.sprite
         version: 1.0.0
       resolvedDependencies:
       - name: com.unity.2d.common
-        version: 3.0.1
+        version: 4.0.3
       - name: com.unity.2d.sprite
         version: 1.0.0
       - name: com.unity.modules.uielements
@@ -305,7 +304,7 @@ m_PackageAssets:
       - name: com.unity.modules.uielementsnative
         version: 1.0.0
       - name: com.unity.2d.animation
-        version: 4.2.6
+        version: 5.0.3
       - name: com.unity.mathematics
         version: 1.1.0
       - name: com.unity.modules.animation
@@ -326,20 +325,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637366434350000000
+      datePublishedTicks: 637366443480000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 4e323a9f3edf4c6dc06ab4d1582e12f07cb54189
+        revision: 4e96f68a7587d87b4fee15d6f88a5d86c2afa9aa
         path: 
     - packageId: com.unity.2d.sprite@1.0.0
       testable: 0
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.2d.sprite
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.2d.sprite
       assetPath: Packages/com.unity.2d.sprite
       name: com.unity.2d.sprite
       displayName: 2D Sprite
@@ -385,12 +384,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.unity.2d.spriteshape@4.1.4
+    - packageId: com.unity.2d.spriteshape@5.1.0
       testable: 0
       isDirectDependency: 1
-      version: 4.1.4
+      version: 5.1.0
       source: 1
-      resolvedPath: G:\UnityProjects\AoC 2020 Day 5\Library\PackageCache\com.unity.2d.spriteshape@4.1.4
+      resolvedPath: G:\UnityProjects\AoC 2020\AoC-2020\AoC 2020 Day 5\Library\PackageCache\com.unity.2d.spriteshape@5.1.0
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
       displayName: 2D SpriteShape
@@ -455,23 +454,23 @@ m_PackageAssets:
         - 6.0.0-pre.1
         - 6.0.0-pre.2
         compatible:
-        - 4.1.4
-        - 4.1.5
-        verified: 4.1.5
+        - 5.1.0
+        - 5.1.1
+        verified: 5.1.1
       dependencies:
       - name: com.unity.mathematics
         version: 1.1.0
       - name: com.unity.2d.common
-        version: 3.0.1
+        version: 4.0.3
       - name: com.unity.2d.path
-        version: 3.0.2
+        version: 4.0.1
       - name: com.unity.modules.physics2d
         version: 1.0.0
       resolvedDependencies:
       - name: com.unity.mathematics
         version: 1.1.0
       - name: com.unity.2d.common
-        version: 3.0.1
+        version: 4.0.3
       - name: com.unity.2d.sprite
         version: 1.0.0
       - name: com.unity.modules.uielements
@@ -485,7 +484,7 @@ m_PackageAssets:
       - name: com.unity.modules.uielementsnative
         version: 1.0.0
       - name: com.unity.2d.path
-        version: 3.0.2
+        version: 4.0.1
       - name: com.unity.modules.physics2d
         version: 1.0.0
       keywords:
@@ -507,20 +506,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637366433170000000
+      datePublishedTicks: 637408852810000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 4e323a9f3edf4c6dc06ab4d1582e12f07cb54189
+        revision: c97def465b1932276762fc13f4cfee58da99d5e9
         path: 
     - packageId: com.unity.2d.tilemap@1.0.0
       testable: 0
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.2d.tilemap
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.2d.tilemap
       assetPath: Packages/com.unity.2d.tilemap
       name: com.unity.2d.tilemap
       displayName: 2D Tilemap Editor
@@ -570,7 +569,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: G:\UnityProjects\AoC 2020 Day 5\Library\PackageCache\com.unity.collab-proxy@1.3.9
+      resolvedPath: G:\UnityProjects\AoC 2020\AoC-2020\AoC 2020 Day 5\Library\PackageCache\com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -660,12 +659,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
         revision: fa825106f349f996acff22f718845eab46ca2d7c
         path: 
-    - packageId: com.unity.ide.rider@1.2.1
+    - packageId: com.unity.ide.rider@2.0.7
       testable: 0
       isDirectDependency: 1
-      version: 1.2.1
+      version: 2.0.7
       source: 1
-      resolvedPath: G:\UnityProjects\AoC 2020 Day 5\Library\PackageCache\com.unity.ide.rider@1.2.1
+      resolvedPath: G:\UnityProjects\AoC 2020\AoC-2020\AoC 2020 Day 5\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -675,9 +674,9 @@ m_PackageAssets:
         url: 
       category: 
       type: 
-      description: Code editor integration for supporting JetBrains Rider as code
-        editor for unity. Adds support for generating csproj files for code completion,
-        auto discovery of installations, etc.
+      description: The JetBrains Rider Editor package provides an integration for
+        using the JetBrains Rider IDE as a code editor for Unity. It adds support
+        for generating .csproj files for code completion and auto-discovery of installations.
       status: 4
       errors: []
       versions:
@@ -704,6 +703,7 @@ m_PackageAssets:
         - 3.0.2
         - 3.0.3
         - 3.0.4
+        - 3.0.5
         compatible:
         - 1.0.2
         - 1.0.6
@@ -727,15 +727,16 @@ m_PackageAssets:
         - 3.0.2
         - 3.0.3
         - 3.0.4
-        verified: 1.2.1
+        - 3.0.5
+        verified: 2.0.7
       dependencies:
       - name: com.unity.test-framework
         version: 1.1.1
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.18
+        version: 1.1.20
       - name: com.unity.ext.nunit
-        version: 1.0.0
+        version: 1.0.6
       - name: com.unity.modules.imgui
         version: 1.0.0
       - name: com.unity.modules.jsonserialize
@@ -753,20 +754,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637123753810000000
+      datePublishedTicks: 637334461080000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git@github.cds.internal.unity3d.com:unity/com.unity.ide.rider.git
-        revision: 009bcadf1eb16d9bbf3d00bcf6ccdde2162ce0cb
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
+        revision: abb44f053e9a41d2e00e149e32a19bcec76e98b4
         path: 
-    - packageId: com.unity.ide.visualstudio@2.0.3
+    - packageId: com.unity.ide.visualstudio@2.0.5
       testable: 0
       isDirectDependency: 1
-      version: 2.0.3
+      version: 2.0.5
       source: 1
-      resolvedPath: G:\UnityProjects\AoC 2020 Day 5\Library\PackageCache\com.unity.ide.visualstudio@2.0.3
+      resolvedPath: G:\UnityProjects\AoC 2020\AoC-2020\AoC 2020 Day 5\Library\PackageCache\com.unity.ide.visualstudio@2.0.5
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -824,20 +825,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637359495930000000
+      datePublishedTicks: 637400980850000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-        revision: 869804bff6e99d0d0e9c1867aebaa070fad875e5
+        revision: 83ca94e82bb6da515dc57e0d860b6b2224f56991
         path: 
-    - packageId: com.unity.ide.vscode@1.2.2
+    - packageId: com.unity.ide.vscode@1.2.3
       testable: 0
       isDirectDependency: 1
-      version: 1.2.2
+      version: 1.2.3
       source: 1
-      resolvedPath: G:\UnityProjects\AoC 2020 Day 5\Library\PackageCache\com.unity.ide.vscode@1.2.2
+      resolvedPath: G:\UnityProjects\AoC 2020\AoC-2020\AoC 2020 Day 5\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -893,20 +894,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637356850590000000
+      datePublishedTicks: 637394922300000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
-        revision: d4564dab663617ea31f5782b365961d5304bed3c
+        revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
         path: 
-    - packageId: com.unity.test-framework@1.1.18
+    - packageId: com.unity.test-framework@1.1.20
       testable: 0
       isDirectDependency: 1
-      version: 1.1.18
+      version: 1.1.20
       source: 1
-      resolvedPath: G:\UnityProjects\AoC 2020 Day 5\Library\PackageCache\com.unity.test-framework@1.1.18
+      resolvedPath: G:\UnityProjects\AoC 2020\AoC-2020\AoC 2020 Day 5\Library\PackageCache\com.unity.test-framework@1.1.20
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -948,22 +949,22 @@ m_PackageAssets:
         - 1.1.19
         - 1.1.20
         - 1.1.22
+        - 1.1.24
         compatible:
-        - 1.1.18
-        - 1.1.19
         - 1.1.20
         - 1.1.22
-        verified: 1.1.22
+        - 1.1.24
+        verified: 1.1.24
       dependencies:
       - name: com.unity.ext.nunit
-        version: 1.0.0
+        version: 1.0.6
       - name: com.unity.modules.imgui
         version: 1.0.0
       - name: com.unity.modules.jsonserialize
         version: 1.0.0
       resolvedDependencies:
       - name: com.unity.ext.nunit
-        version: 1.0.0
+        version: 1.0.6
       - name: com.unity.modules.imgui
         version: 1.0.0
       - name: com.unity.modules.jsonserialize
@@ -983,20 +984,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637378481950000000
+      datePublishedTicks: 637429759710000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
-        revision: 14025b364215f4465cbe1beb7a81e486b2687ced
+        revision: f04391d9987f4a534f886a9638b011d53e5871d8
         path: 
     - packageId: com.unity.textmeshpro@3.0.1
       testable: 0
       isDirectDependency: 1
       version: 3.0.1
       source: 1
-      resolvedPath: G:\UnityProjects\AoC 2020 Day 5\Library\PackageCache\com.unity.textmeshpro@3.0.1
+      resolvedPath: G:\UnityProjects\AoC 2020\AoC-2020\AoC 2020 Day 5\Library\PackageCache\com.unity.textmeshpro@3.0.1
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1147,7 +1148,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.6
       source: 1
-      resolvedPath: G:\UnityProjects\AoC 2020 Day 5\Library\PackageCache\com.unity.timeline@1.3.6
+      resolvedPath: G:\UnityProjects\AoC 2020\AoC-2020\AoC 2020 Day 5\Library\PackageCache\com.unity.timeline@1.3.6
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1207,6 +1208,7 @@ m_PackageAssets:
         - 1.4.4
         - 1.4.5
         - 1.4.6
+        - 1.4.7
         - 1.5.0-pre.2
         - 1.5.0-preview.1
         - 1.5.0-preview.2
@@ -1217,7 +1219,9 @@ m_PackageAssets:
         - 1.5.1-pre.2
         - 1.5.1-pre.3
         - 1.5.2
+        - 1.5.4
         - 1.6.0-pre.1
+        - 1.6.0-pre.3
         compatible:
         - 1.2.6
         - 1.2.7
@@ -1257,6 +1261,7 @@ m_PackageAssets:
         - 1.4.4
         - 1.4.5
         - 1.4.6
+        - 1.4.7
         - 1.5.0-pre.2
         - 1.5.0-preview.1
         - 1.5.0-preview.2
@@ -1267,8 +1272,10 @@ m_PackageAssets:
         - 1.5.1-pre.2
         - 1.5.1-pre.3
         - 1.5.2
+        - 1.5.4
         - 1.6.0-pre.1
-        verified: 1.3.7
+        - 1.6.0-pre.3
+        verified: 1.4.7
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -1302,7 +1309,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
       displayName: Unity UI
@@ -1365,7 +1372,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai
       assetPath: Packages/com.unity.modules.ai
       name: com.unity.modules.ai
       displayName: AI
@@ -1413,7 +1420,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni
       assetPath: Packages/com.unity.modules.androidjni
       name: com.unity.modules.androidjni
       displayName: Android JNI
@@ -1461,7 +1468,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
       displayName: Animation
@@ -1509,7 +1516,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle
       assetPath: Packages/com.unity.modules.assetbundle
       name: com.unity.modules.assetbundle
       displayName: Asset Bundle
@@ -1557,7 +1564,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
       displayName: Audio
@@ -1605,7 +1612,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth
       assetPath: Packages/com.unity.modules.cloth
       name: com.unity.modules.cloth
       displayName: Cloth
@@ -1657,7 +1664,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
       displayName: Director
@@ -1713,7 +1720,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion
       assetPath: Packages/com.unity.modules.imageconversion
       name: com.unity.modules.imageconversion
       displayName: Image Conversion
@@ -1762,7 +1769,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui
       assetPath: Packages/com.unity.modules.imgui
       name: com.unity.modules.imgui
       displayName: IMGUI
@@ -1810,7 +1817,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize
       assetPath: Packages/com.unity.modules.jsonserialize
       name: com.unity.modules.jsonserialize
       displayName: JSONSerialize
@@ -1858,7 +1865,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
       displayName: Particle System
@@ -1906,7 +1913,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics
       assetPath: Packages/com.unity.modules.physics
       name: com.unity.modules.physics
       displayName: Physics
@@ -1954,7 +1961,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d
       assetPath: Packages/com.unity.modules.physics2d
       name: com.unity.modules.physics2d
       displayName: Physics 2D
@@ -2002,7 +2009,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture
       assetPath: Packages/com.unity.modules.screencapture
       name: com.unity.modules.screencapture
       displayName: Screen Capture
@@ -2054,7 +2061,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain
       assetPath: Packages/com.unity.modules.terrain
       name: com.unity.modules.terrain
       displayName: Terrain
@@ -2102,7 +2109,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics
       assetPath: Packages/com.unity.modules.terrainphysics
       name: com.unity.modules.terrainphysics
       displayName: Terrain Physics
@@ -2158,7 +2165,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap
       assetPath: Packages/com.unity.modules.tilemap
       name: com.unity.modules.tilemap
       displayName: Tilemap
@@ -2210,7 +2217,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui
       assetPath: Packages/com.unity.modules.ui
       name: com.unity.modules.ui
       displayName: UI
@@ -2258,7 +2265,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements
       assetPath: Packages/com.unity.modules.uielements
       name: com.unity.modules.uielements
       displayName: UIElements
@@ -2322,7 +2329,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra
       assetPath: Packages/com.unity.modules.umbra
       name: com.unity.modules.umbra
       displayName: Umbra
@@ -2370,7 +2377,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics
       assetPath: Packages/com.unity.modules.unityanalytics
       name: com.unity.modules.unityanalytics
       displayName: Unity Analytics
@@ -2426,7 +2433,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest
       assetPath: Packages/com.unity.modules.unitywebrequest
       name: com.unity.modules.unitywebrequest
       displayName: Unity Web Request
@@ -2474,7 +2481,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle
       assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
       name: com.unity.modules.unitywebrequestassetbundle
       displayName: Unity Web Request Asset Bundle
@@ -2530,7 +2537,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio
       assetPath: Packages/com.unity.modules.unitywebrequestaudio
       name: com.unity.modules.unitywebrequestaudio
       displayName: Unity Web Request Audio
@@ -2586,7 +2593,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture
       assetPath: Packages/com.unity.modules.unitywebrequesttexture
       name: com.unity.modules.unitywebrequesttexture
       displayName: Unity Web Request Texture
@@ -2642,7 +2649,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww
       assetPath: Packages/com.unity.modules.unitywebrequestwww
       name: com.unity.modules.unitywebrequestwww
       displayName: Unity Web Request WWW
@@ -2714,7 +2721,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles
       assetPath: Packages/com.unity.modules.vehicles
       name: com.unity.modules.vehicles
       displayName: Vehicles
@@ -2766,7 +2773,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video
       assetPath: Packages/com.unity.modules.video
       name: com.unity.modules.video
       displayName: Video
@@ -2826,7 +2833,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr
       assetPath: Packages/com.unity.modules.vr
       name: com.unity.modules.vr
       displayName: VR
@@ -2888,7 +2895,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind
       assetPath: Packages/com.unity.modules.wind
       name: com.unity.modules.wind
       displayName: Wind
@@ -2936,7 +2943,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr
       assetPath: Packages/com.unity.modules.xr
       name: com.unity.modules.xr
       displayName: XR
@@ -2996,7 +3003,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.subsystems
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.subsystems
       assetPath: Packages/com.unity.modules.subsystems
       name: com.unity.modules.subsystems
       displayName: Subsystems
@@ -3048,7 +3055,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.1.12f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielementsnative
+      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielementsnative
       assetPath: Packages/com.unity.modules.uielementsnative
       name: com.unity.modules.uielementsnative
       displayName: UIElements Native
@@ -3102,12 +3109,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.unity.ext.nunit@1.0.0
+    - packageId: com.unity.ext.nunit@1.0.6
       testable: 0
       isDirectDependency: 0
-      version: 1.0.0
+      version: 1.0.6
       source: 1
-      resolvedPath: G:\UnityProjects\AoC 2020 Day 5\Library\PackageCache\com.unity.ext.nunit@1.0.0
+      resolvedPath: G:\UnityProjects\AoC 2020\AoC-2020\AoC 2020 Day 5\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3155,20 +3162,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 636898893830000000
+      datePublishedTicks: 637429759280000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git@gitlab.cds.internal.unity3d.com/upm-packages/core/com.unity.ext.nunit.git
-        revision: c8f5044ffe6adb909f9836160b0bdaa30f2d1ec9
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
+        revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
         path: 
     - packageId: com.unity.mathematics@1.1.0
       testable: 0
       isDirectDependency: 0
       version: 1.1.0
       source: 1
-      resolvedPath: G:\UnityProjects\AoC 2020 Day 5\Library\PackageCache\com.unity.mathematics@1.1.0
+      resolvedPath: G:\UnityProjects\AoC 2020\AoC-2020\AoC 2020 Day 5\Library\PackageCache\com.unity.mathematics@1.1.0
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
       displayName: Mathematics
@@ -3238,12 +3245,12 @@ m_PackageAssets:
         url: git@github.com:Unity-Technologies/Unity.Mathematics.git
         revision: 0a3dfafaf606098ea681de4c4be60f3aac63b773
         path: 
-    - packageId: com.unity.2d.common@3.0.1
+    - packageId: com.unity.2d.common@4.0.3
       testable: 0
       isDirectDependency: 0
-      version: 3.0.1
+      version: 4.0.3
       source: 1
-      resolvedPath: G:\UnityProjects\AoC 2020 Day 5\Library\PackageCache\com.unity.2d.common@3.0.1
+      resolvedPath: G:\UnityProjects\AoC 2020\AoC-2020\AoC 2020 Day 5\Library\PackageCache\com.unity.2d.common@4.0.3
       assetPath: Packages/com.unity.2d.common
       name: com.unity.2d.common
       displayName: 2D Common
@@ -3278,8 +3285,9 @@ m_PackageAssets:
         - 5.0.0-pre.1
         - 5.0.0-pre.2
         compatible:
-        - 3.0.1
-        verified: 3.0.1
+        - 4.0.2
+        - 4.0.3
+        verified: 4.0.3
       dependencies:
       - name: com.unity.2d.sprite
         version: 1.0.0
@@ -3312,20 +3320,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637256005260000000
+      datePublishedTicks: 637408843940000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: c73fb89a5b37a8e0f18f9e66307b3c2ed74c79e8
+        revision: c97def465b1932276762fc13f4cfee58da99d5e9
         path: 
-    - packageId: com.unity.2d.path@3.0.2
+    - packageId: com.unity.2d.path@4.0.1
       testable: 0
       isDirectDependency: 0
-      version: 3.0.2
+      version: 4.0.1
       source: 1
-      resolvedPath: G:\UnityProjects\AoC 2020 Day 5\Library\PackageCache\com.unity.2d.path@3.0.2
+      resolvedPath: G:\UnityProjects\AoC 2020\AoC-2020\AoC 2020 Day 5\Library\PackageCache\com.unity.2d.path@4.0.1
       assetPath: Packages/com.unity.2d.path
       name: com.unity.2d.path
       displayName: 2D Path
@@ -3358,8 +3366,8 @@ m_PackageAssets:
         - 5.0.0-pre.1
         - 5.0.0-pre.2
         compatible:
-        - 3.0.2
-        verified: 3.0.2
+        - 4.0.1
+        verified: 4.0.1
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -3377,15 +3385,15 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637328482940000000
+      datePublishedTicks: 637328350450000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 770e07a3b7a9107798c367cae274d1d3418c4ede
+        revision: 7d7470f4ca0ea8353d4c9640b3b6ae9d1ebd9c1d
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: G:/UnityProjects/AoC 2020 Day 5/Packages
-m_EditorVersion: 2020.1.12f1 (55b56f0a86e3)
+m_ProjectPath: G:/UnityProjects/AoC 2020/AoC-2020/AoC 2020 Day 5/Packages
+m_EditorVersion: 2020.2.3f1 (8ff31bc5bf5b)
